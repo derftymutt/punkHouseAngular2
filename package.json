@@ -31,6 +31,7 @@
     "css": "2.2.1",
     "css-loader": "0.28.4",
     "es6-shim": "0.35.3",
+    "eslint": "^4.19.0",
     "event-source-polyfill": "0.0.9",
     "expose-loader": "0.7.3",
     "extract-text-webpack-plugin": "2.1.2",
@@ -52,11 +53,13 @@
     "rxjs": "5.4.2",
     "style-loader": "0.18.2",
     "to-string-loader": "1.1.5",
+    "tslint": "^5.9.1",
     "typescript": "2.4.1",
     "url-loader": "0.5.9",
     "webpack": "2.5.1",
     "webpack-hot-middleware": "2.18.2",
     "webpack-merge": "4.1.0",
     "zone.js": "0.8.12"
-  }
+  },
+  "dependencies": {}
 }
